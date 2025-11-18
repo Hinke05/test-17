@@ -18,6 +18,8 @@ hoi
 
 dinsdag 
 
+pullen 
+
 
 
 
