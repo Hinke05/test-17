@@ -14,3 +14,5 @@ readRDS("C:/Users/hinke/OneDrive/20. Data and analysis/data/mice.rds")
 ```
 
 test test 
+
+pullen
