@@ -1,0 +1,15 @@
+---
+title: "nieuw"
+author: "Hinke van Bussel"
+date: "2025-11-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+readRDS("C:/Users/hinke/OneDrive/20. Data and analysis/data/mice.rds")
+```
+
